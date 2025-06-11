@@ -4,6 +4,7 @@
 
 * Diving and sliding on mobile and console
 * Enemies
+* Objectives
 
 # 06-11-25
 
@@ -16,5 +17,6 @@
 * Fully working character selection ui; ui prone to change
 * Made the sliding animation shorter; took too long to transition to walking
 * Logo officially chosen
+* Removed nil
   
 ![LAWLESS (5)](https://github.com/user-attachments/assets/4406134a-3b07-4925-97f4-5249e99bb9e0)
