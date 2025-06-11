@@ -21,6 +21,7 @@
 * Fully working character selection ui; ui prone to change
 * Made the sliding animation shorter; took too long to transition to walking
 * Logo officially chosen
+* Tesla's Tacos cutscene finished
 * Removed nil
   
 ![LAWLESS (5)](https://github.com/user-attachments/assets/4406134a-3b07-4925-97f4-5249e99bb9e0)
