@@ -8,7 +8,7 @@
 
 # Want to submit a bug? Click the link below!
 
-![Click here!](https://github.com/ARSG-Studios/Lawless-Changelogs/issues)
+[Click here](https://github.com/ARSG-Studios/Lawless-Changelogs/issues).
 
 # 06-11-25
 
