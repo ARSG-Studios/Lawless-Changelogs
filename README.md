@@ -6,6 +6,10 @@
 * Enemies
 * Objectives
 
+# Want to submit a bug? Click the link below!
+
+![Click here!(5)](https://github.com/ARSG-Studios/Lawless-Changelogs/issues)
+
 # 06-11-25
 
 # Pre-Alpha
