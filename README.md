@@ -1,5 +1,10 @@
 # Lawless-Changelogs
 
+# Features soon to be added
+
+* Diving and sliding on mobile and console
+* Enemies
+
 # 06-11-25
 
 # Pre-Alpha
