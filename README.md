@@ -2,7 +2,6 @@
 
 # Features soon to be added
 
-* Diving and sliding on mobile and console
 * Enemies
 * Objectives
 
@@ -14,6 +13,7 @@
 
 # Pre-Alpha
 
+* Dashing support on mobile and console
 * Cutscene dialogues changed
 * Fixed small bugs
 * Removed nil
