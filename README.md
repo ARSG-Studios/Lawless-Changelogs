@@ -10,6 +10,14 @@
 
 [Click here](https://github.com/ARSG-Studios/Lawless-Changelogs/issues).
 
+# 06-12-25
+
+# Pre-Alpha
+
+* Cutscene dialogues changed
+* Fixed small bugs
+* Removed nil
+
 # 06-11-25
 
 # Pre-Alpha
