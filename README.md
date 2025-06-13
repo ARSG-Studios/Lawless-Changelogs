@@ -4,6 +4,7 @@
 
 * Enemies
 * Objectives
+* Consumables; saves
 
 # Want to submit a bug? Click the link below!
 
