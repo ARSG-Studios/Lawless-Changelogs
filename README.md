@@ -10,6 +10,27 @@
 
 [Click here](https://github.com/ARSG-Studios/Lawless-Changelogs/issues).
 
+# 06-14-25
+
+# Pre Alpha
+
+* Heavily worked on the beach
+* Began work on the sewers
+* Improvements to the cola shop interior
+* Added Jamison
+  
+  <img width="256" alt="Drawing-2 sketchpad" src="https://github.com/user-attachments/assets/7f4ce49a-848f-47b0-920c-13a6306ad85d" />
+
+
+# 06-13-25
+
+# Pre-Alpha
+
+* Added Vox as a playable character
+* Added Vixel as a playable character
+* Improvements to the cola shop interior
+* Removed nil
+
 # 06-12-25
 
 # Pre-Alpha
@@ -17,6 +38,7 @@
 * Dashing support on mobile and console
 * Cutscene dialogues changed
 * Fixed small bugs
+* Improved the beach; chapter 1
 * Removed nil
 
 # 06-11-25
